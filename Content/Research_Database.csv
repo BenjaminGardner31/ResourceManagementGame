@@ -1,0 +1,5 @@
+,Research_Required,Next_Research
+StoneTile,20,
+WoodTile,20,StoneTile
+FarmTile,20,WoodTile
+Hut_Tile,20,FarmTile
